@@ -1,0 +1,65 @@
+
+.experience-section{
+    height:1088px;
+    width: 100%;
+    background-color:rgba(255, 218, 116, 1);
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.experience-desc{
+    font-size: 16px;
+    width: 350px;
+    display: inline-block;
+    margin-bottom: 80px;
+}
+
+.experience-subtitle{
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.experience-title{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+.experience-grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 700px;
+    width: 1200px;
+    margin: 0 auto;
+    gap: 20px;
+}
+
+.experience-card{
+    border: 1px solid rgba(27, 27, 27, 0.25);
+    width: 590px;
+    height: 338px;
+    border-radius: 10px;
+    text-align: start;
+    padding: 40px;
+}
+
+.experience-card-title{
+    width: 224px;
+    color: rgba(27, 27, 27, 1);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.experience-card-desc{
+    font-size: 16px;
+    text-align: start;
+    width: 400px;
+    color: rgba(27, 27, 27, 1);
+    margin-bottom: 50px;
+}
+
+.experience-year{
+    font-size: 100px;
+    color: rgba(27, 27, 27, 1);
+}

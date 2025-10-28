@@ -1,0 +1,97 @@
+
+.main-content{
+    width: 100%;
+}
+
+/* Hero Section */
+.hero-section{
+    padding: 40px;
+    margin-bottom: 100px;
+    max-width: 100%;
+    height: 637px;
+}
+
+.about-container{
+    display: flex;
+    width: 1200px;
+    height: 382px;
+    margin: 0 auto;
+}
+
+.about-text{
+    width: 500px;
+    margin-right: 250px;
+}
+
+.section-subtitle{
+    margin-bottom: 40px;
+    font-size: 14px;
+    color: rgba(27, 27, 27, 0.25);
+    letter-spacing: 3px;
+}
+
+.main-heading{
+    margin-bottom: 20px;
+    font-size: 40px;
+    width: 552px;
+}
+
+.description{
+    font-size: 16px;
+    margin-bottom: 90px;
+}
+
+.profile-img{
+    position: absolute;
+    width: 330px;
+    height: 302px;
+    z-index: 2;
+    right: 70px;
+    border-radius: 40px;
+    transform: rotate(30deg);
+    border: 3px solid rgba(225, 225, 225, 1);
+}
+
+.bac-shape{
+    width: 444px;
+    height: 316px;
+    z-index: 1;
+}
+
+.social-links{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: 400px;
+}
+
+.social-icon{
+    display: block;
+    border: 1px solid grey;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    background-color:white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.social-text{
+    width: 150px;
+}
+
+.social-link{
+    text-decoration: none;
+    font-size: 18px;
+    color: rgba(27, 27, 27, 1);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.highlight{
+    color: #1664EA;
+}
+
+.image-container{
+    position: relative;
+}
